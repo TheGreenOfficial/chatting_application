@@ -1,6 +1,6 @@
-This is a chat application
-made by a fresh programmer
-in his php learning journey
+This is a chat application is
+made by a programmer who doesn't have much knowledge and
+in his php learning journey making projects
 hope you like it...
 
 
